@@ -1,0 +1,1 @@
+500 iterations with learning rate 0.1 using AMD 6310 cpu, finished within 4 hours.
